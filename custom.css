@@ -1,0 +1,26 @@
+.vivaldi {
+  display: none;
+}
+
+#header {
+  min-height: 2px !important;
+}
+
+.window-close {
+  position: fixed !important;
+  left: 5px !important;
+  right: 5px !important;
+}
+
+.window-minimize {
+  display: none;
+}
+
+#tabs-container {
+  padding-left: 37px !important;
+  padding-right: 0px !important;
+}
+
+.sync-and-trash-container {
+  margin-right: 30px;
+}
